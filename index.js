@@ -1,7 +1,8 @@
 import gulp from 'gulp';
 import svgSprite from 'gulp-svg-sprite';
 import plumber from 'gulp-plumber';
-import path from 'path';
+import rename from 'gulp-rename';
+
 // import { svgOpts } from './svg_config.js'
 
 let svgOpts = {
@@ -30,5 +31,6 @@ export const svg = (gulp, svgOpts) => {
     .on('error', (error) => {
       console.log(error);
     })
+    .pipe(rename('sprite.symbol.svg'))
     .pipe(gulp.dest(`${dest}`));
 };
