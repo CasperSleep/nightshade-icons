@@ -1,6 +1,6 @@
 {
   "name": "@casper/nightshade-icons",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Collection of icons used at Casper",
   "main": "gulpfile.babel.js",
   "scripts": {
