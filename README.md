@@ -1,2 +1,68 @@
-# nightshade-icons
-Casper's icon set and system for building digital products
+# Nightshade Icons
+
+_At the moment nightshade icons relies heavily on gulp and assumes you are
+using es6._
+
+To build your own set of nightshade-icons, your project needs to have a
+`gulpfile.babel.js`.
+
+
+## Installation
+
+There are two ways to use this module in your project, via gulp task or
+referencing the symbols map directly.
+
+
+### Load external symbols map
+
+Currently in use by storefront
+
+```
+npm install -D Casper/Sleep/@casper/nightshade-icons#v1.0.0
+npm run linksvg
+```
+
+
+### Use as a gulp task
+
+```
+npm install -D Casper/Sleep/@casper/nightshade-icons#v0.1.0
+```
+
+Import icon task in your project `gulpfile.babel.js`
+
+```
+import { svg } from './node_modules/@casper/nightshade-icons';
+
+```
+
+Configure your options
+
+```
+const svgOpts = {
+  'cwd': './node_modules/@casper/nightshade-icons/lib',
+  'dest': './app/assets/images',
+  'files': [
+    '**/*.svg'
+  ]
+};
+```
+
+Create local svg task that calls nightshade-icons svg task
+
+```
+gulp.task('svg', svg(gulp, svgOpts));
+```
+
+### Creating your own build
+
+If you can't use this module via gulp, you can still create your own build
+directly from node_modules folder by running tests. Add the files you want to
+array first.
+
+## Todos
+
+- [ ] Group icons by their respective component, ex. review, core
+- [ ] Build a symbols file for each component
+- [ ] Replace svg task with call to lib for svg task
+- [ ] Build es5 version of gulp task (low)
