@@ -19,8 +19,9 @@ Currently in use by storefront
 
 ```
 npm install -D Casper/Sleep/@casper/nightshade-icons#v1.0.0
-npm run linksvg
 ```
+
+Reference the symbols map located in `node_modules/@casper/nightshade-icons/test/sprite.symbol.svg`.
 
 
 ### Use as a gulp task
