@@ -17,6 +17,6 @@ const storefrontConfig = {
   ]
 };
 
-gulp.task('svg', ['pressSvg', 'storefrontSvg']);
+gulp.task('default', ['pressSvg', 'storefrontSvg']);
 gulp.task('pressSvg', svg(gulp, pressConfig));
 gulp.task('storefrontSvg', svg(gulp, storefrontConfig));
