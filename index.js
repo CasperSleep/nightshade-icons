@@ -11,20 +11,18 @@ let svgOpts = {
   ]
 };
 
-let svgConfig = {
-  'log': 'debug',
-  'mode': {
-    'symbol': true
-  }
-};
-
 export const svg = (gulp, svgOpts) => {
 
   const {cwd, dest, files} = svgOpts;
 
   gulp.src(`${files}`, {cwd: `${cwd}`})
     .pipe(plumber())
-    .pipe(svgSprite(svgConfig))
+    .pipe(svgSprite({
+      'log': 'debug',
+      'mode': {
+        'symbol': true
+      }
+    }))
     .on('error', (error) => {
       console.log(error);
     })
