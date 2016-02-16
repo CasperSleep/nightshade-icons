@@ -13,7 +13,7 @@ export const svg = (gulp, config) => {
 
   const {cwd, dest, files} = config;
 
-  gulp.src(`${files}`, {cwd: `${cwd}`})
+  gulp.src(files, {cwd: cwd})
     .pipe(plumber())
     .pipe(svgSprite({
       'log': 'debug',
@@ -25,5 +25,5 @@ export const svg = (gulp, config) => {
       console.log(error);
     })
     .pipe(rename('sprite.symbol.svg'))
-    .pipe(gulp.dest(`${dest}`));
+    .pipe(gulp.dest(dest));
 };
