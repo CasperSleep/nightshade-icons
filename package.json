@@ -5,7 +5,7 @@
   "main": "gulpfile.babel.js",
   "scripts": {
     "build": "babel gulpfile.babel.js -o gulpfile.js",
-    "test": "cd test && gulp svg",
+    "test": "gulp svg",
     "version": "git add --am",
     "postversion": "git push && git push --tags"
   },
