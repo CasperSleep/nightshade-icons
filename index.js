@@ -3,8 +3,6 @@ import svgSprite from 'gulp-svg-sprite';
 import plumber from 'gulp-plumber';
 import rename from 'gulp-rename';
 
-// import { svgOpts } from './svg_config.js'
-
 let svgOpts = {
   'cwd': './lib',
   'dest': './test',
@@ -19,7 +17,6 @@ let svgConfig = {
     'symbol': true
   }
 };
-
 
 export const svg = (gulp, svgOpts) => {
 
