@@ -16,10 +16,10 @@ export const svg = (gulp, config) => {
   gulp.src(files, {cwd: cwd})
     .pipe(plumber())
     .pipe(svgSprite({
-      'log': 'debug',
-      'mode': {
-        'symbol': true
-      }
+      log: 'debug',
+      mode: {
+        symbol: true
+      },
     }))
     .on('error', (error) => {
       console.log(error);
