@@ -3,7 +3,7 @@ import svgSprite from 'gulp-svg-sprite';
 import plumber from 'gulp-plumber';
 import rename from 'gulp-rename';
 
-let svgOpts = {
+let config = {
   'cwd': './lib',
   'dest': './test',
   'files': [
@@ -11,9 +11,9 @@ let svgOpts = {
   ]
 };
 
-export const svg = (gulp, svgOpts) => {
+export const svg = (gulp, config) => {
 
-  const {cwd, dest, files} = svgOpts;
+  const {cwd, dest, files} = config;
 
   gulp.src(`${files}`, {cwd: `${cwd}`})
     .pipe(plumber())

@@ -40,7 +40,7 @@ import { svg } from './node_modules/@casper/nightshade-icons';
 Configure your options
 
 ```
-const svgOpts = {
+const config = {
   'cwd': './node_modules/@casper/nightshade-icons/lib',
   'dest': './app/assets/images',
   'files': [
@@ -52,7 +52,7 @@ const svgOpts = {
 Create local svg task that calls nightshade-icons svg task
 
 ```
-gulp.task('svg', svg(gulp, svgOpts));
+gulp.task('svg', svg(gulp, config));
 ```
 
 ### Creating your own build

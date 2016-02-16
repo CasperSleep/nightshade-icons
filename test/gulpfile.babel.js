@@ -1,7 +1,7 @@
 import gulp from'gulp';
 import { svg } from '../index.js';
 
-const svgOpts = {
+const config = {
   'cwd': '../lib/storefront',
   'dest': '.',
   'files': [
@@ -9,4 +9,4 @@ const svgOpts = {
   ]
 };
 
-gulp.task('svg', svg(gulp, svgOpts));
+gulp.task('svg', svg(gulp, config));
