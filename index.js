@@ -1,16 +1,14 @@
-import gulp from 'gulp';
 import svgSprite from 'gulp-svg-sprite';
 import plumber from 'gulp-plumber';
 import rename from 'gulp-rename';
 
-let config = {
-  'cwd': './lib',
-  'dest': './test',
-  'files': [
-    '**/*.svg'
-  ]
-};
-
+/**
+ * Build an optimized SVG symbol spritesheet from individual SVGs
+ * @param {function} A gulp instance
+ * @param config.cwd {string} CWD passed to gulp.src
+ * @param config.files {string|array} File globs passed to gulp.src
+ * @param config.dest {string} Output destination passed to gulp.dest
+ */
 export const svg = (gulp, config) => {
 
   const {cwd, dest, files} = config;
