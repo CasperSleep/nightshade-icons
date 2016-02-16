@@ -30,8 +30,6 @@
     "gulp": "^3.9.0",
     "gulp-plumber": "^1.0.1",
     "gulp-rename": "^1.2.2",
-    "gulp-svg-sprite": "^1.2.19",
-    "install": "^0.4.1",
-    "npm": "^3.5.3"
+    "gulp-svg-sprite": "^1.2.19"
   }
 }
