@@ -3,22 +3,18 @@
 _At the moment nightshade icons relies heavily on gulp and assumes you are
 using es6._
 
-To build your own set of nightshade-icons, your project needs to have a
-`gulpfile.babel.js`.
-
-
 ## Installation
 
 There are two ways to use this module in your project, via gulp task or
 referencing the symbols map directly.
 
 
-### Load external symbols map
+### Use external symbols map
 
 Currently in use by storefront
 
 ```
-npm install -D Casper/Sleep/@casper/nightshade-icons#v1.0.0
+npm install -D CasperSleep/nightshade-icons
 ```
 
 Reference the symbols map located in `node_modules/@casper/nightshade-icons/dist/storefront/sprite.symbol.svg`.
@@ -26,8 +22,11 @@ Reference the symbols map located in `node_modules/@casper/nightshade-icons/dist
 
 ### Use as a gulp task
 
+To build your own set of nightshade-icons, your project needs to have a
+`gulpfile.babel.js`.
+
 ```
-npm install -D Casper/Sleep/@casper/nightshade-icons#v0.1.0
+npm install -D CasperSleep/nightshade-icons
 ```
 
 Import icon task in your project `gulpfile.babel.js`
