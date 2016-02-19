@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<title>Sailbot</title>
+<desc>Sailboat with full sail up.</desc>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="0.5" x2="16" y2="26.8"/>
+	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M24,31.5H7.7
+		c-2,0-3.7-1.7-3.7-3.7l0-1h23.7v1C27.7,29.8,26,31.5,24,31.5z"/>
+	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16,7.4L27.7,18
+		c0.6,0.6,0.2,1.6-0.7,1.6H4.9c-0.8,0-1.2-0.8-0.8-1.5L16,3h3.9"/>
+</g>
+</svg>
