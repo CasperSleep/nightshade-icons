@@ -5,21 +5,21 @@
 <title>Open Box</title>
 <desc>Empty box with 4 open flaps.</desc>
 <g>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="12.5,18.3 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="12.5,18.3 
 		2.5,15 6,9.2 16,12.5 	"/>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="19.5,18.3 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="19.5,18.3 
 		29.5,15 26,9.2 16,12.5 	"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="12.5" x2="16" y2="28.1"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="26,16.1 
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="12.5" x2="16" y2="28.1"/>
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="26,16.1 
 		26,24.8 16,28.1 6,24.8 6,16.1 	"/>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="21.5,3.9 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="21.5,3.9 
 		31.5,7.2 26,9.2 16,5.9 	"/>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="10.5,3.9 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="10.5,3.9 
 		0.5,7.2 6,9.2 16,5.9 	"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="12.5" x2="16" y2="28.1"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="26,16.7 
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="12.5" x2="16" y2="28.1"/>
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="26,16.7 
 		26,24.8 16,28.1 6,24.8 6,16.6 	"/>
 </g>
 </svg>

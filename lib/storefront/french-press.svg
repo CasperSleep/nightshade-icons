@@ -5,20 +5,20 @@
 <title>French Press</title>
 <desc>French press from profile view.</desc>
 <g>
-	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.2,12.5v19H10.9
+	<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.2,12.5v19H10.9
 		l0-19c0-3,2.3-5.4,5.2-5.4S21.2,9.5,21.2,12.5z"/>
-	<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="16.1" y1="6.9" x2="16.1" y2="3.7"/>
+	<line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="16.1" y1="6.9" x2="16.1" y2="3.7"/>
 	
-		<ellipse fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="16.1" cy="2.1" rx="1.5" ry="1.6"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="21.2,12.5 
+		<ellipse fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="16.1" cy="2.1" rx="1.5" ry="1.6"/>
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="21.2,12.5 
 		7.4,12.5 10.9,16 	"/>
 	<g>
 		
-			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.2" y1="15.6" x2="24.6" y2="15.6"/>
+			<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.2" y1="15.6" x2="24.6" y2="15.6"/>
 		
-			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.2" y1="26.2" x2="24.6" y2="26.2"/>
+			<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.2" y1="26.2" x2="24.6" y2="26.2"/>
 	</g>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.6" y1="13" x2="24.6" y2="28.8"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.6" y1="13" x2="24.6" y2="28.8"/>
 </g>
 </svg>

@@ -5,18 +5,18 @@
 <title>Anchor</title>
 <desc>Boat anchor</desc>
 <g>
-	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.1,25.7"/>
-	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.9,25.7"/>
-	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.1,25.7
+	<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.1,25.7"/>
+	<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.9,25.7"/>
+	<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.1,25.7
 		c2.3,3.5,6.3,5.8,10.9,5.8s8.6-2.3,10.9-5.8"/>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="2.1,20.7 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="2.1,20.7
 		2.4,26.9 7.7,23.5 2.1,20.7 2.4,26.9 7.7,23.5 	"/>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="29.9,21.1 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="29.9,21.1
 		29.6,27.3 24.3,24 29.9,21.1 29.6,27.3 24.3,24 	"/>
-	<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="31.5" x2="16" y2="5.6"/>
-	
-		<ellipse fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="16" cy="3" rx="2.6" ry="2.5"/>
-	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.8" y1="10.8" x2="5.2" y2="10.8"/>
+	<line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="16" y1="31.5" x2="16" y2="5.6"/>
+
+		<ellipse fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="16" cy="3" rx="2.6" ry="2.5"/>
+
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.8" y1="10.8" x2="5.2" y2="10.8"/>
 </g>
 </svg>

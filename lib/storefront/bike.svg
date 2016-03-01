@@ -6,19 +6,19 @@
 <desc>Bike delivering a Casper mattrress.</desc>
 <g>
 	
-		<ellipse transform="matrix(1 -3.500943e-03 3.500943e-03 1 -6.811906e-02 1.351806e-02)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="3.8" cy="19.5" rx="3.3" ry="3.1"/>
+		<ellipse transform="matrix(1 -3.500943e-03 3.500943e-03 1 -6.811906e-02 1.351806e-02)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="3.8" cy="19.5" rx="3.3" ry="3.1"/>
 	
-		<ellipse transform="matrix(1 -3.500943e-03 3.500943e-03 1 -6.767157e-02 9.875025e-02)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="28.2" cy="19.4" rx="3.3" ry="3.1"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="9.4,19.4 
+		<ellipse transform="matrix(1 -3.500943e-03 3.500943e-03 1 -6.767157e-02 9.875025e-02)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="28.2" cy="19.4" rx="3.3" ry="3.1"/>
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="9.4,19.4 
 		14.4,14.8 7.3,14.8 3.8,19.5 9.4,19.4 6.1,12.1 	"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="14.9,12.4 
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="14.9,12.4 
 		13.7,12.4 15.7,19.2 16.5,19.4 28.2,19.4 	"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5.3" y1="11.9" x2="7.8" y2="12.5"/>
-	<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="17.7" x2="23.4" y2="17.7"/>
-	<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="16.1" x2="23.4" y2="16.1"/>
-	<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="12.8" x2="23.4" y2="12.8"/>
-	<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="11.1" x2="23.4" y2="11.1"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5.3" y1="11.9" x2="7.8" y2="12.5"/>
+	<line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="17.7" x2="23.4" y2="17.7"/>
+	<line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="16.1" x2="23.4" y2="16.1"/>
+	<line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="12.8" x2="23.4" y2="12.8"/>
+	<line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="17.1" y1="11.1" x2="23.4" y2="11.1"/>
 	<g>
 		<path d="M23.4,19.9h-6.3c-0.3,0-0.5-0.2-0.5-0.5v-10c0-0.3,0.2-0.5,0.5-0.5h6.3c0.3,0,0.5,0.2,0.5,0.5v10
 			C23.9,19.7,23.6,19.9,23.4,19.9z M17.6,18.9h5.3v-9h-5.3V18.9z"/>

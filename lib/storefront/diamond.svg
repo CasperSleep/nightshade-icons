@@ -5,21 +5,21 @@
 <title>Firmness Icon</title>
 <desc>Line drawing of a diamond.</desc>
 <g>
-	<polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,15.9 
+	<polygon fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,15.9 
 		27.5,15.9 23.6,10.1 4.4,10.1 	"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="27.5,15.9 
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="27.5,15.9 
 		14,29.7 0.5,15.9 	"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.6" y1="10.1" x2="14" y2="29.7"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.6" y1="10.1" x2="14" y2="29.7"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="4.4" y1="10.1" x2="14" y2="29.7"/>
-	<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="20.8,15.9 
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="4.4" y1="10.1" x2="14" y2="29.7"/>
+	<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="20.8,15.9 
 		14,10.1 7.3,16 	"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="31.5" y1="8.2" x2="28.8" y2="9.8"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="31.5" y1="8.2" x2="28.8" y2="9.8"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.7" y1="6.8" x2="27" y2="4.3"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.7" y1="6.8" x2="27" y2="4.3"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.2" y1="5.3" x2="21.4" y2="2.3"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.2" y1="5.3" x2="21.4" y2="2.3"/>
 </g>
 </svg>

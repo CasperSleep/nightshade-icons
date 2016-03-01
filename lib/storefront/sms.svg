@@ -5,12 +5,12 @@
 <title>Cell phone icon</title>
 <desc>Line drawing of a smartphone.</desc>
 <g>
-	<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.5,31.5h-13
+	<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.5,31.5h-13
 		c-1.4,0-2.6-1.2-2.6-2.6V3.1c0-1.4,1.2-2.6,2.6-2.6h13c1.4,0,2.6,1.2,2.6,2.6v25.8C25.1,30.3,23.9,31.5,22.5,31.5z"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="6.9" y1="6.7" x2="25.1" y2="6.7"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="6.9" y1="6.7" x2="25.1" y2="6.7"/>
 	
-		<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="6.9" y1="25.3" x2="25.1" y2="25.3"/>
+		<line fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="6.9" y1="25.3" x2="25.1" y2="25.3"/>
 	<ellipse cx="16" cy="28.3" rx="1.4" ry="1.4"/>
 </g>
 </svg>

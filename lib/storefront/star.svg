@@ -4,5 +4,5 @@
 	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
 <title>Solid Star</title>
 <desc>Five pointed solid star</desc>
-<path fill="#010101" d="M22.1,19.6L32,12H20L16,0l-4,12H0l9.9,7.6L6,32l10-7.7L26,32L22.1,19.6z"/>
+<path d="M22.1,19.6L32,12H20L16,0l-4,12H0l9.9,7.6L6,32l10-7.7L26,32L22.1,19.6z"/>
 </svg>

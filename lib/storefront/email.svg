@@ -10,6 +10,6 @@
 			 M1,25.2h30V6.8H1V25.2z"/>
 	</g>
 </g>
-<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,6.3 
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,6.3 
 	31.5,6.3 16,20 0.5,6.3 "/>
 </svg>
