@@ -6,7 +6,6 @@
   "scripts": {
     "build": "babel gulpfile.babel.js -o gulpfile.js",
     "test": "gulp",
-    "version": "git add --am",
     "postversion": "git push && git push --tags"
   },
   "repository": {
