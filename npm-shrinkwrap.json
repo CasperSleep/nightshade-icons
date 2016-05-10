@@ -1,6 +1,6 @@
 {
   "name": "@casper/nightshade-icons",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "dependencies": {
     "abbrev": {
       "version": "1.0.7",
