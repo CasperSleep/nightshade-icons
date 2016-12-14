@@ -22,6 +22,8 @@ Reference the symbols map located in `node_modules/@casper/nightshade-icons/dist
 
 ### Use as a gulp task
 
+**NOTE!** You must use node < 7 in order to run this gulp task. Try `nvm use 5.10.1`.
+
 To build your own set of nightshade-icons, your project needs to have a
 `gulpfile.babel.js`.
 
