@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 33 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>The outline of a play button</title>
+    <desc>A triangle play icon but just the outline</desc>
+    <path d="M1,1 L0.5,1.866 L1,1 L0,1 C0,0.643 0.189,0.312 0.5,0.134 C0.809,-0.045 1.189,-0.045 1.5,0.134 L32.424,17.988 C32.733,18.166 32.924,18.497 32.924,18.853 C32.924,19.21 32.733,19.54 32.424,19.718 L1.5,37.573 C1.189,37.751 0.809,37.751 0.5,37.573 C0.189,37.395 0,37.064 0,36.708 L0,1 L1,1 Z M29.925,18.854 L2,2.732 L2,34.975 L29.925,18.854 Z" id="Shape"></path>
+</svg>
