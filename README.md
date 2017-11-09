@@ -17,6 +17,8 @@ Currently in use by storefront
 npm install -D CasperSleep/nightshade-icons
 ```
 
+**NOTE!** You can't use `yarn` for this, it doesn't generate the correct output! Stick with `npm` (unless you want to setup a `yarn.lock` file with the right dependencies).
+
 Reference the symbols map located in `node_modules/@casper/nightshade-icons/dist/storefront/sprite.symbol.svg`.
 
 
