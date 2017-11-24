@@ -21,6 +21,11 @@ npm install -D CasperSleep/nightshade-icons
 
 Reference the symbols map located in `node_modules/@casper/nightshade-icons/dist/storefront/sprite.symbol.svg`.
 
+### Generate `sprite.symbol.svg`
+
+```
+gulp storefrontSvg
+```
 
 ### Use as a gulp task
 
