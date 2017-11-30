@@ -3,11 +3,10 @@
 _At the moment nightshade icons relies heavily on gulp and assumes you are
 using es6._
 
-## Installation
+**NOTES:**
 
-There are two ways to use this module in your project, via gulp task or
-referencing the symbols map directly.
-
+- You must use node < 7 in order to run this gulp task. It's recommended to use `nvm use 5.10.1`.
+- You can't use `yarn` for this, it doesn't generate the correct output! Stick with `npm` (unless you want to setup a `yarn.lock` file with the right dependencies).
 
 ### Use external symbols map
 
@@ -17,14 +16,22 @@ Currently in use by storefront
 npm install -D CasperSleep/nightshade-icons
 ```
 
-**NOTE!** You can't use `yarn` for this, it doesn't generate the correct output! Stick with `npm` (unless you want to setup a `yarn.lock` file with the right dependencies).
-
 Reference the symbols map located in `node_modules/@casper/nightshade-icons/dist/storefront/sprite.symbol.svg`.
 
+### Generate `sprite.symbol.svg`
+
+```
+gulp storefrontSvg
+```
+
+## Installation
+
+Once the sprite file has been generated, it needs be copied manually to _both_ the Storefront (https://github.com/CasperSleep/Casper) and Sleep SPA (https://github.com/CasperSleep/sleep-spa) repos. The locations to copy to are:
+
+- Storefront: `app/assets/images/sprite.symbol.svg`
+- Sleep SPA: `src/assets-spa/icons/sprite.symbol.svg`
 
 ### Use as a gulp task
-
-**NOTE!** You must use node < 7 in order to run this gulp task. Try `nvm use 5.10.1`.
 
 To build your own set of nightshade-icons, your project needs to have a
 `gulpfile.babel.js`.
